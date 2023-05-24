@@ -1,4 +1,4 @@
-Simple Shell project by Mohammed Sekkai and Mouhcine Ezzaidi
+Simple Shell project by Mohammed Sekkat and Mouhcine Ezzaidi
 
 The following are the general learning Objectives in this project
 
